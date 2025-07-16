@@ -1,0 +1,13 @@
+Django>=4.0
+djangorestframework
+python-dotenv
+PyMuPDF
+langchain
+faiss-cpu
+openai
+chromadb
+google-generativeai
+huggingface-hub
+langchain>=0.2
+langchain-core
+langchain-huggingface
